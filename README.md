@@ -13,7 +13,6 @@ This repository contains a comprehensive study on the challenges, opportunities,
 - [Ethical Considerations](#ethical-considerations)
 - [Future of AI](#future-of-ai)
 - [Conclusion](#conclusion)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -59,9 +58,6 @@ Exploration of autonomous vehicles as real-world applications of AI awareness, f
 
 ## Conclusion
 The study concludes by summarizing key findings, discussing potential benefits and ethical concerns, and outlining future directions for research in AI awareness.
-
-## Contributing
-We welcome contributions to this research. Please read our contributing guidelines before submitting pull requests.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
